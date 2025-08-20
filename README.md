@@ -1,4 +1,4 @@
-# Youtube Clone
+# Streamverse
 
 Built using ReactJs, Material UI and RapidAPI
 </br>
